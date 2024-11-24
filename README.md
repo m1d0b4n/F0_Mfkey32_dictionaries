@@ -1,1 +1,1 @@
-# -F0-_Mfkey32_dictionary
+# F0_Mfkey32_dictionary
